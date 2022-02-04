@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aniket_Kumar
-- 👀 I’m interested in Blockchain, Web3 and Fintech
-- 🌱 I’m currently learning blockchain & web develpment
-- 💞️ I’m looking to collaborate on blockchain project
+- 👀 I’m interested in Blockchain, Web3, Fintech and Data Science
+- 🌱 I’m currently learning data science, blockchain & web develpment
+- 💞️ I’m looking to collaborate on project related to data & blockchain technologies
 - 📫 How to reach me "scholaraniket2103@gmail.com"
 
 <!---
